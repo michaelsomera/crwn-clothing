@@ -6,6 +6,7 @@ export const CollectionItemContainer = styled.div`
   display: flex;
   flex-direction: column;
   height: 350px;
+  padding: 3px;
   align-items: center;
   position: relative;
   &:hover {
